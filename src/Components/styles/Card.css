@@ -1,0 +1,65 @@
+.trStyle{
+    padding: 15px
+}
+.trStyle1{
+    padding: 15px
+}
+
+.tdStyle{
+    padding: 15px
+}
+
+.tdStyle1{
+    padding: 15px
+}
+
+.CardPokemon{
+    width:600px;
+    background: white
+}
+
+.CardAbilities{
+    width:300px;
+    background: white
+}
+
+.CardMoves{
+    width:600px;
+    background: white
+}
+
+.card_Header{
+    background: white
+}
+
+.Align{
+    margin-left: auto;
+  margin-right: auto
+}
+
+.letter{
+    font-family: cursive;
+    color: black;
+}
+
+.sizeLetter{
+    font-size: 25px;
+}
+
+.sizeCard{
+    width:239px;
+}
+
+.h6,h3,h1,h5{
+    color: black;
+}
+
+.center{
+    text-align: center;
+}
+
+.image{
+    width: 250px;
+}
+
+
